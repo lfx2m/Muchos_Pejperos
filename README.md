@@ -11,4 +11,5 @@ Recommender System Creation:
 * Analyse product taxometry to recommend best sellers within customers interests and new products he might be aware of or willing to buy 
 
 * Business efficient products out of result lot are chosen
+
 [80/100]
