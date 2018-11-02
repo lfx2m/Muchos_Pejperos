@@ -13,3 +13,9 @@ Recommender System Creation:
 * Business efficient products out of result lot are chosen
 
 [80/100]
+
+
+Techlead - Let's do server maintenance
+=============================================================
+
+*
